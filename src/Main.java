@@ -1,6 +1,6 @@
 public class Main {
     public static void main(String[] args) {
-        //задача1
+        //задача 1
         int shuller=5;
         System.out.println("Значение переменной shuller" +
                 "с типом int равно "+shuller);
